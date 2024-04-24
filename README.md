@@ -6,12 +6,13 @@ I do freelancing as well
 <br />
 so,
 <br />
-[Feel free to connect in linkedin](https://www.linkedin.com/in/satya991/) 
+Feel free to connect in linkedin
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)' alt='linkedin' height='40'>]([https://www.linkedin.com/in/satya-srivatsav-gadiyaram-120889148/](https://www.linkedin.com/in/satya991/)  
+
+
 
 
 Skills: React/Javascript/Java/.NET
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sathya991)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/satya-srivatsav-gadiyaram-120889148/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gojo_sensei_991/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sathya9911)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17211692)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sathya991.github.io/#/)  
 
