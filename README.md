@@ -6,8 +6,8 @@ I do freelancing as well
 <br />
 so,
 <br />
-Feel free to connect in linkedin
-[<img src='[https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg]' alt='linkedin' height='40'>](https://www.linkedin.com/in/satya991/)  
+Feel free to connect in linkedin -> 
+[<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/satya991/)  
 
 
 
