@@ -7,7 +7,7 @@ I do freelancing as well
 so,
 <br />
 Feel free to connect in linkedin
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)' alt='linkedin' height='40'>]([https://www.linkedin.com/in/satya-srivatsav-gadiyaram-120889148/](https://www.linkedin.com/in/satya991/)  
+[<img src='[https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg]' alt='linkedin' height='40'>](https://www.linkedin.com/in/satya991/)  
 
 
 
