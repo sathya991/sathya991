@@ -1,8 +1,11 @@
 ### Hi there 👋, my name is Sathya Srivatsav
-#### I am an Entrepreneur, Flutter designer and Developer.
-I recently completed my graduation in Bachelors of Technology in the field of Computer Science and Engineering. I am a passionate engineer who loves working on various kinds of projects, I worked with multiple technologies like web technology using MEAN stack, Android Development using JAVA, and even a bit of Machine Learning. Currently, I have been working with Flutter for the past year.
+#### I am an Entrepreneur, React designer and Developer.
+I recently completed my graduation in Bachelors of Technology in the field of Computer Science and Engineering. I am a passionate engineer who loves working on various kinds of projects, I worked with multiple technologies like web dev using MERN stack, I use ASP.NET as well sometimes, Android Development using JAVA, and even a bit of Machine Learning. Currently, I have been working with React from quite some time.
 
-Skills: Flutter/Dart/Java/Python
+Feel free to connect in linkedin for freelancing projects 
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[sathya991]" />
+
+Skills: React/Javascript/Java/.NET
 
 
 
