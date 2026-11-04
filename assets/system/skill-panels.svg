@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="166" viewBox="0 0 960 166" role="img" aria-labelledby="title">
+  <title id="title">Development toolkit: .NET and ASP.NET, React and JavaScript, Flutter and Dart</title>
+  <defs>
+    <linearGradient id="card" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0b2543"/>
+      <stop offset="1" stop-color="#040b17"/>
+    </linearGradient>
+    <linearGradient id="frame">
+      <stop stop-color="#17579b"/>
+      <stop offset=".4" stop-color="#5cdfff"/>
+      <stop offset="1" stop-color="#173d76"/>
+    </linearGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" stroke="#2972b4" stroke-opacity=".2" fill="none"/>
+    </pattern>
+    <g id="panel">
+      <path d="M14 1h274l14 14v119l-14 14H14L1 135V14z" fill="url(#card)" stroke="url(#frame)" stroke-width="1.6"/>
+      <path d="M14 1h274l14 14v119l-14 14H14L1 135V14z" fill="url(#grid)"/>
+      <path d="M1 28V14L14 1h54m199 147h21l14-14v-15" fill="none" stroke="#61e6ff" stroke-width="2.1"/>
+      <path d="M22 119h257M22 119h55" stroke="#2b79be" fill="none"/>
+      <circle cx="22" cy="119" r="2.5" fill="#6ae8ff"/>
+    </g>
+  </defs>
+  <g transform="translate(8 8)"><use xlink:href="#panel"/></g>
+  <g transform="translate(329 8)"><use xlink:href="#panel"/></g>
+  <g transform="translate(650 8)"><use xlink:href="#panel"/></g>
+  <g font-family="monospace" font-size="14" letter-spacing="2" fill="#8bcaf9">
+    <text x="30" y="35">01 / BACKEND</text>
+    <text x="351" y="35">02 / FRONTEND</text>
+    <text x="672" y="35">03 / MOBILE</text>
+  </g>
+  <g font-family="Arial, Liberation Sans, sans-serif" font-weight="700" font-size="51" fill="#d5f6ff">
+    <text x="28" y="92">.NET</text>
+    <text x="349" y="92">React</text>
+    <text x="670" y="92">Flutter</text>
+  </g>
+  <g font-family="monospace" font-size="17" fill="#a8dcff">
+    <text x="30" y="114">ASP.NET</text>
+    <text x="351" y="114">JavaScript</text>
+    <text x="672" y="114">Dart</text>
+  </g>
+</svg>

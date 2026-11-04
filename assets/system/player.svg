@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc">
+  <title id="title">System online · Satya Srivatsav</title>
+  <desc id="desc">Electric-blue System notification with an animated radar. Software developer at Worksoft.</desc>
+  <defs>
+    <linearGradient id="background" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#061426"/>
+      <stop offset="1" stop-color="#020610"/>
+    </linearGradient>
+    <linearGradient id="metal">
+      <stop stop-color="#1177e0"/>
+      <stop offset=".22" stop-color="#78eaff"/>
+      <stop offset=".48" stop-color="#114383"/>
+      <stop offset=".83" stop-color="#189cf2"/>
+      <stop offset="1" stop-color="#9bf8ff"/>
+    </linearGradient>
+    <linearGradient id="rail">
+      <stop stop-color="#0e3aac" stop-opacity="0"/>
+      <stop offset=".18" stop-color="#0870ff"/>
+      <stop offset=".5" stop-color="#73f3ff"/>
+      <stop offset=".82" stop-color="#117aff"/>
+      <stop offset="1" stop-color="#0e3aac" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="haze">
+      <stop stop-color="#037fff" stop-opacity=".29"/>
+      <stop offset="1" stop-color="#0061fe" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" x2="1" y1="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0d85ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#55dcff" stop-opacity=".47"/>
+    </linearGradient>
+    <linearGradient id="name" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#fbffff"/>
+      <stop offset="1" stop-color="#a6dcff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#2d8ded" stroke-opacity=".13"/>
+    </pattern>
+    <pattern id="ticks" width="8" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 1H4" stroke="#2a8ffc"/>
+    </pattern>
+    <clipPath id="frame"><path d="M36 14H917l28 28v304l-28 30H36L14 354V36z"/></clipPath>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <style>
+      @media (prefers-reduced-motion: reduce) { .motion { display: none; } }
+    </style>
+  </defs>
+  <path d="M36 14H917l28 28v304l-28 30H36L14 354V36z" fill="url(#background)"/>
+  <g clip-path="url(#frame)">
+    <ellipse cx="754" cy="202" rx="275" ry="235" fill="url(#haze)"/>
+    <path d="M584 15H947V376H482z" fill="url(#grid)"/>
+    <g stroke="#1764b3" fill="none" opacity=".45">
+      <path d="M552 71h54l24-24h188l24 24h55m-306 8h28l21-21h166m-245 259h59l30 27h190l18-18h43"/>
+      <path d="M652 102h-52l-32 32h-26m346-18h-20l-20 19m-228 131h-33l-27 27h-34m389-20h-25l-24 25h-50"/>
+      <path d="M524 114v-21h24m-47 219v13h22m387-230v-18h-19m27 222v20h-19"/>
+      <path d="M44 306h410l23-23h33m-466 33h133m-133 9h95m275-240h72l18-18h42"/>
+    </g>
+    <path d="M15 40l22-22h878l26 26m0 300-26 28H36l-20-20" fill="none" stroke="#0175ff" stroke-width="8" opacity=".75" filter="url(#glow)"/>
+    <path d="M42 16h558m94 0h221M35 374h208m100 0h574" stroke="url(#rail)" stroke-width="7" filter="url(#glow)"/>
+    <g class="motion">
+      <path d="M28 22h902M28 368h902" stroke="#61eaff" stroke-width="3" stroke-dasharray="75 900" opacity=".6">
+        <animate attributeName="stroke-dashoffset" from="0" to="-975" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(748 197)">
+      <path d="M-94-94h188l35 35v118l-35 35H-94l-35-35V-59z" fill="#04162e" fill-opacity=".64" stroke="#1b5d9e"/>
+      <path d="M-140-55v-47h46m234 47v-47H94m-234 156v47h46m234-47v47H94" fill="none" stroke="#5ce5ff" stroke-opacity=".72"/>
+      <circle r="119" fill="none" stroke="#249cf8" stroke-opacity=".64" stroke-width="2" stroke-dasharray="2 6"/>
+      <circle r="100" fill="none" stroke="#50ccff" stroke-width="1.5" stroke-opacity=".7"/>
+      <circle r="76" fill="none" stroke="#2c8ed9" stroke-opacity=".62" stroke-dasharray="4 4"/>
+      <circle r="52" fill="none" stroke="#2c8ed9" stroke-opacity=".62"/>
+      <path d="M-111 0h222M0-111v222m-70-70 140 140m0-140L-70 70" stroke="#3e97e4" stroke-opacity=".27"/>
+      <g class="motion">
+        <path d="M0 0V-99a99 99 0 0 1 83 45z" fill="url(#sweep)"/>
+        <path d="M0 0l83-54" stroke="#7aeaff" stroke-width="2" opacity=".8"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+      </g>
+      <g class="motion">
+        <circle r="44" fill="none" stroke="#69efff" stroke-width="2" opacity="0">
+          <animate attributeName="r" values="44;105;105" keyTimes="0;.72;1" dur="3.4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;.65;0;0" keyTimes="0;.18;.72;1" dur="3.4s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <path d="M0-33 28-16v32L0 33l-28-17v-32z" fill="#061427" stroke="#85ecff" stroke-width="1.7"/>
+      <path d="M0-22 18-11v22L0 22l-18-11v-22z" fill="#103559" stroke="#3a9fe5"/>
+      <path d="m-8 0 6 6L9-6" stroke="#c9faff" stroke-width="2.8" fill="none"/>
+      <g fill="#7aeaff">
+        <circle cx="-52" cy="-43" r="2.4"/>
+        <circle cx="65" cy="37" r="2.4"/>
+        <circle cx="43" cy="-67" r="2.2"/>
+        <circle cx="-23" cy="73" r="2.2"/>
+      </g>
+    </g>
+    <path d="M56 62h298l10 10v35H56z" fill="#061b30" stroke="#2675b7"/>
+    <path d="M56 62h156" stroke="#65e8ff" stroke-width="2"/>
+    <circle cx="79" cy="84" r="9" fill="none" stroke="#8aeaff" stroke-width="1.4"/>
+    <path d="M79 79v6m0 3v1" stroke="#c1f6ff" stroke-width="1.4"/>
+    <text x="101" y="90" fill="#b6efff" font-family="monospace" font-size="15" letter-spacing="2.6">SYSTEM NOTIFICATION</text>
+    <text x="55" y="169" fill="url(#name)" font-family="Arial, Liberation Sans, sans-serif" font-size="57" font-weight="700" letter-spacing="-1.9">Satya</text>
+    <text x="55" y="231" fill="url(#name)" font-family="Arial, Liberation Sans, sans-serif" font-size="67" font-weight="700" letter-spacing="-2.5">Srivatsav</text>
+    <text x="58" y="268" fill="#87d6ff" font-family="monospace" font-size="19" letter-spacing="1.2">SOFTWARE DEVELOPER</text>
+    <path d="M58 291h388l15-15h39" fill="none" stroke="#286ca8"/>
+    <path d="M58 291h87" stroke="#59e7ff" stroke-width="2"/>
+    <circle cx="63" cy="337" r="4" fill="#77f3ff"/>
+    <g class="motion">
+      <circle cx="63" cy="337" r="10" fill="#2adfff" opacity=".3" filter="url(#glow)">
+        <animate attributeName="opacity" values=".2;.85;.2" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="78" y="342" fill="#b8e0fc" font-family="monospace" font-size="15" letter-spacing="1.3">WORKSOFT / HYDERABAD</text>
+    <text x="748" y="339" text-anchor="middle" fill="#89d9ff" font-family="monospace" font-size="14" letter-spacing="2.4">PLAYER PROFILE ACTIVE</text>
+    <path d="M859 337h40v4h-40zM42 113h48v4H42z" fill="url(#ticks)" opacity=".5"/>
+  </g>
+  <path d="M36 14H917l28 28v304l-28 30H36L14 354V36z" fill="none" stroke="url(#metal)" stroke-width="2"/>
+  <path d="M28 43 44 27h254m577 0h34l22 22v52M28 300v49l16 14h108m545 0h213l21-23v-36" fill="none" stroke="#427cba" stroke-opacity=".77"/>
+  <path d="M14 68V36l22-22h96m672 0h113l28 28v22M14 330v24l22 22h93m696 0h92l28-30v-24" fill="none" stroke="#8befff" stroke-width="2.5"/>
+</svg>

@@ -1,37 +1,49 @@
 <p align="center">
-  <img src="assets/shadow-system.png" width="100%" alt="Shadow System online. Arise. Sathya Srivatsav, developer and entrepreneur." />
+  <img src="assets/system/player.svg" width="100%" alt="System notification. Satya Srivatsav, software developer at Worksoft in Hyderabad." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satya991/"><strong>Connect on LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sathya991?tab=repositories"><strong>Browse repositories</strong></a>
+  <a href="https://www.linkedin.com/in/satya991/"><img src="assets/system/linkedin.svg" width="29%" alt="LinkedIn" /></a>
+  <a href="#system-notifications"><img src="assets/system/projects.svg" width="29%" alt="Jump to projects and notifications" /></a>
+  <a href="https://github.com/sathya991?tab=repositories"><img src="assets/system/repositories.svg" width="29%" alt="GitHub repositories" /></a>
 </p>
 
-<p>
-  <img src="assets/hunter-profile.png" width="100%" alt="01 — Hunter Profile" />
+## Player status
+
+I'm Satya, a software developer at **Worksoft** in Hyderabad. My background spans web applications and cross-platform mobile development. I enjoy building across the stack, from the interface people use to the services behind it.
+
+<p align="center">
+  <img src="assets/system/skill-panels.svg" width="100%" alt="Development toolkit: .NET and ASP.NET, React and JavaScript, Flutter and Dart." />
 </p>
 
-I'm Sathya, a developer, React designer, and entrepreneur with a B.Tech in Computer Science and Engineering. I enjoy building across the stack, from React interfaces to .NET backends, and I've explored Android development and machine learning along the way.
+## System notifications
 
-<p>
-  <img src="assets/skill-tree.png" width="100%" alt="02 — Skill Tree" />
-</p>
+<details open>
+<summary><strong>01 · Quest log</strong> — explore my projects</summary>
 
-| Branch | Skills |
+- **GamerStreet** · An esports platform I helped build. [View repository](https://github.com/sathya991/Gamer-Street)
+- **React Portfolio** · A portfolio project built with React. [View repository](https://github.com/sathya991/React_Portfolio)
+- **Pokédex** · A Pokémon catalog project. [View repository](https://github.com/sathya991/Pokedex)
+
+</details>
+
+<details>
+<summary><strong>02 · Skill tree</strong> — expand my development toolkit</summary>
+
+| Branch | Tools and systems |
 | :--- | :--- |
-| **Frontend** | React, JavaScript, interface design |
-| **Web and backend** | MERN stack, ASP.NET, .NET |
-| **Mobile** | Android development with Java |
-| **Exploration** | Machine learning |
+| Web | React, JavaScript, MERN |
+| Backend | .NET, ASP.NET |
+| Mobile | Flutter, Dart, Android development with Java |
 
-<p>
-  <img src="assets/quest-log.png" width="100%" alt="03 — Quest Log" />
-</p>
+</details>
 
-- **Build** · Designing and developing web projects with React.
-- **Collaborate** · I also take on freelance projects. [Reach out on LinkedIn](https://www.linkedin.com/in/satya991/).
+<details>
+<summary><strong>03 · Player archive</strong> — background and earlier work</summary>
 
-<p align="center">
-  <img src="assets/system-footer.png" width="100%" alt="System online. Next gate awaits." />
-</p>
+- B.Tech in Computer Science and Engineering.
+- Freelance experience in cross-platform mobile development with Flutter and Dart.
+
+</details>
+
+<p align="center"><code>◇ SYSTEM ONLINE ◇</code></p>

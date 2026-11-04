@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="49" viewBox="0 0 202 49">
+<title>LINKEDIN</title>
+<path d="M10 1h181l10 10v26l-11 11H10L1 39V10z" fill="#061629" stroke="#3b97d7"/>
+<path d="M10 1h42m103 47h35l11-11" fill="none" stroke="#72e7ff" stroke-width="1.5"/>
+<path d="M16 25h7m-3.5-3.5v7" stroke="#6de8ff" stroke-width="1.5" fill="none"/>
+<text x="34" y="30" font-family="monospace" font-size="15" font-weight="bold" letter-spacing="1" fill="#daf6ff">LINKEDIN</text>
+<path d="m177 20 5 5-5 5" stroke="#6de8ff" stroke-width="1.5" fill="none"/>
+</svg>
