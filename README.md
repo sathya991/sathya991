@@ -4,17 +4,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satya991/"><img src="assets/system/linkedin.svg" width="29%" alt="LinkedIn" /></a>
-  <a href="#system-notifications"><img src="assets/system/projects.svg" width="29%" alt="Jump to projects and notifications" /></a>
-  <a href="https://github.com/sathya991?tab=repositories"><img src="assets/system/repositories.svg" width="29%" alt="GitHub repositories" /></a>
+  <a href="#system-notifications"><img src="assets/system/projects.svg" width="29%" alt="View projects" /></a>
+  <a href="https://github.com/sathya991?tab=repositories"><img src="assets/system/repositories.svg" width="29%" alt="Browse repositories" /></a>
 </p>
 
 ## Player status
 
-I'm Satya, a software developer at **Worksoft** in Hyderabad. My background spans web applications and cross-platform mobile development. I enjoy building across the stack, from the interface people use to the services behind it.
+I'm Satya, a software developer at **Worksoft** in Hyderabad. I build across the stack with **C#/.NET**, **Angular**, **SQL Server**, and **Python ETL**.
 
 <p align="center">
-  <img src="assets/system/skill-panels.svg" width="100%" alt="Development toolkit: .NET and ASP.NET, React and JavaScript, Flutter and Dart." />
+  <img src="assets/system/skill-panels.svg" width="100%" alt="Current stack: C#/.NET, Angular, SQL Server, and Python ETL." />
 </p>
+
+### Worksoft highlights
+
+- Cut file upload time by **over 80%**.
+- Reduced p95 latency by **about 20%** and peak database CPU usage by **about 30%**.
 
 ## System notifications
 
@@ -33,9 +38,10 @@ I'm Satya, a software developer at **Worksoft** in Hyderabad. My background span
 
 | Branch | Tools and systems |
 | :--- | :--- |
-| Web | React, JavaScript, MERN |
-| Backend | .NET, ASP.NET |
-| Mobile | Flutter, Dart, Android development with Java |
+| Backend | C#, .NET |
+| Frontend | Angular |
+| Data | SQL Server, Python ETL |
+| Earlier projects | React, JavaScript, MERN, Flutter, Dart, Android development with Java |
 
 </details>
 

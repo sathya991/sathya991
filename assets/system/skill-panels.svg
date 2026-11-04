@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="166" viewBox="0 0 960 166" role="img" aria-labelledby="title">
-  <title id="title">Development toolkit: .NET and ASP.NET, React and JavaScript, Flutter and Dart</title>
+  <title id="title">Current stack: C#/.NET, Angular, SQL Server, and Python ETL</title>
   <defs>
     <linearGradient id="card" x2="0" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#0b2543"/>
@@ -27,16 +27,16 @@
   <g font-family="monospace" font-size="14" letter-spacing="2" fill="#8bcaf9">
     <text x="30" y="35">01 / BACKEND</text>
     <text x="351" y="35">02 / FRONTEND</text>
-    <text x="672" y="35">03 / MOBILE</text>
+    <text x="672" y="35">03 / DATA</text>
   </g>
   <g font-family="Arial, Liberation Sans, sans-serif" font-weight="700" font-size="51" fill="#d5f6ff">
     <text x="28" y="92">.NET</text>
-    <text x="349" y="92">React</text>
-    <text x="670" y="92">Flutter</text>
+    <text x="349" y="92">Angular</text>
+    <text x="670" y="92">Python</text>
   </g>
   <g font-family="monospace" font-size="17" fill="#a8dcff">
-    <text x="30" y="114">ASP.NET</text>
-    <text x="351" y="114">JavaScript</text>
-    <text x="672" y="114">Dart</text>
+    <text x="30" y="114">C#</text>
+    <text x="351" y="114">Web interfaces</text>
+    <text x="672" y="114">ETL / SQL Server</text>
   </g>
 </svg>
