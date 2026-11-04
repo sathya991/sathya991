@@ -19,11 +19,7 @@ I'm Satya, a full-stack developer at **Worksoft** in Hyderabad. I build web inte
 ## Quest log
 
 <p align="center">
-  <a href="https://github.com/sathya991/portfolio_web"><img src="assets/system/gate/portfolio.svg" width="48%" alt="Portfolio website. Open repository." /></a>
   <a href="https://github.com/sathya991/Gamer-Street"><img src="assets/system/gate/gamer.svg" width="48%" alt="GamerStreet. Flutter app for an esports platform. Open repository." /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/sathya991/React_Portfolio"><img src="assets/system/gate/react.svg" width="48%" alt="React Portfolio. Open repository." /></a>
   <a href="https://github.com/sathya991/Pokedex"><img src="assets/system/gate/pokedex.svg" width="48%" alt="Pokédex. Pokémon catalog. Open repository." /></a>
 </p>
 
