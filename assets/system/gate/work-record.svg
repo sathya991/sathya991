@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="186" viewBox="0 0 1120 186" role="img" aria-labelledby="title">
+<title id="title">Worksoft impact. Over 80% less file upload time, about 20% lower p95 latency, and about 30% lower peak database CPU usage.</title>
+<defs>
+<linearGradient id="ink" x2="1" y2="1"><stop stop-color="#081e38"/><stop offset="1" stop-color="#030915"/></linearGradient>
+<linearGradient id="trim"><stop stop-color="#1a5b9f"/><stop offset=".55" stop-color="#74e4ff"/><stop offset="1" stop-color="#1b518a"/></linearGradient>
+<radialGradient id="field"><stop stop-color="#006bff" stop-opacity=".28"/><stop offset="1" stop-color="#006bff" stop-opacity="0"/></radialGradient>
+<pattern id="blueprint" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#1c71b3" stroke-opacity=".23" fill="none"/></pattern></defs>
+<g transform="translate(5 5)">
+<path d="M17 1H346l15 15v143l-16 16H17L1 160V17z" fill="url(#ink)" stroke="url(#trim)" stroke-width="1.5"/>
+<path d="M17 1H346l15 15v143l-16 16H17L1 160V17z" fill="url(#blueprint)"/>
+<path d="M1 30V17L17 1h62m188 174h79l16-16v-16" fill="none" stroke="#77e7ff" stroke-width="2"/>
+<ellipse cx="253" cy="96" rx="107" ry="76" fill="url(#field)"/>
+<path d="M267 51h60l14 14v60m-59-7 13 13h37" fill="none" stroke="#2a79bd" stroke-opacity=".68"/>
+<path d="M286 81l17 17 20-20m-37 17 17 17 20-20" fill="none" stroke="#7de9ff" stroke-width="2" opacity=".74"/>
+<text x="20" y="31" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#89cffb" letter-spacing=".8">01 / FILE INGESTION</text>
+<text x="18" y="108" font-family="Arial,Liberation Sans,sans-serif" font-size="64" font-weight="800" fill="#e5f9ff" >&gt;80%</text>
+<text x="20" y="137" font-family="ui-monospace,Consolas,monospace" font-size="19" font-weight="400" fill="#a8dcff" >Less upload time</text>
+<path d="M20 153h316m-316 0h82" stroke="#257ebf" fill="none"/>
+<path d="M20 153h85" stroke="#81e8ff" stroke-width="2"/>
+</g><g transform="translate(379 5)">
+<path d="M17 1H346l15 15v143l-16 16H17L1 160V17z" fill="url(#ink)" stroke="url(#trim)" stroke-width="1.5"/>
+<path d="M17 1H346l15 15v143l-16 16H17L1 160V17z" fill="url(#blueprint)"/>
+<path d="M1 30V17L17 1h62m188 174h79l16-16v-16" fill="none" stroke="#77e7ff" stroke-width="2"/>
+<ellipse cx="253" cy="96" rx="107" ry="76" fill="url(#field)"/>
+<path d="M267 51h60l14 14v60m-59-7 13 13h37" fill="none" stroke="#2a79bd" stroke-opacity=".68"/>
+<path d="M286 81l17 17 20-20m-37 17 17 17 20-20" fill="none" stroke="#7de9ff" stroke-width="2" opacity=".74"/>
+<text x="20" y="31" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#89cffb" letter-spacing=".8">02 / API PERFORMANCE</text>
+<text x="18" y="108" font-family="Arial,Liberation Sans,sans-serif" font-size="64" font-weight="800" fill="#e5f9ff" >~20%</text>
+<text x="20" y="137" font-family="ui-monospace,Consolas,monospace" font-size="19" font-weight="400" fill="#a8dcff" >Lower p95 latency</text>
+<path d="M20 153h316m-316 0h82" stroke="#257ebf" fill="none"/>
+<path d="M20 153h85" stroke="#81e8ff" stroke-width="2"/>
+</g><g transform="translate(753 5)">
+<path d="M17 1H346l15 15v143l-16 16H17L1 160V17z" fill="url(#ink)" stroke="url(#trim)" stroke-width="1.5"/>
+<path d="M17 1H346l15 15v143l-16 16H17L1 160V17z" fill="url(#blueprint)"/>
+<path d="M1 30V17L17 1h62m188 174h79l16-16v-16" fill="none" stroke="#77e7ff" stroke-width="2"/>
+<ellipse cx="253" cy="96" rx="107" ry="76" fill="url(#field)"/>
+<path d="M267 51h60l14 14v60m-59-7 13 13h37" fill="none" stroke="#2a79bd" stroke-opacity=".68"/>
+<path d="M286 81l17 17 20-20m-37 17 17 17 20-20" fill="none" stroke="#7de9ff" stroke-width="2" opacity=".74"/>
+<text x="20" y="31" font-family="ui-monospace,Consolas,monospace" font-size="15" font-weight="700" fill="#89cffb" letter-spacing=".8">03 / DATABASE</text>
+<text x="18" y="108" font-family="Arial,Liberation Sans,sans-serif" font-size="64" font-weight="800" fill="#e5f9ff" >~30%</text>
+<text x="20" y="137" font-family="ui-monospace,Consolas,monospace" font-size="19" font-weight="400" fill="#a8dcff" >Lower peak CPU usage</text>
+<path d="M20 153h316m-316 0h82" stroke="#257ebf" fill="none"/>
+<path d="M20 153h85" stroke="#81e8ff" stroke-width="2"/>
+</g>
+</svg>

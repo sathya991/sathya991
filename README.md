@@ -1,55 +1,51 @@
 <p align="center">
-  <img src="assets/system/player.svg" width="100%" alt="System notification. Satya Srivatsav, software developer at Worksoft in Hyderabad." />
+  <img src="assets/system/gate/player-gate.svg" width="100%" alt="System notification. Satya Srivatsav, full-stack software developer at Worksoft in Hyderabad. An electric-blue gate surrounds an animated S monogram." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satya991/"><img src="assets/system/linkedin.svg" width="29%" alt="LinkedIn" /></a>
-  <a href="#system-notifications"><img src="assets/system/projects.svg" width="29%" alt="View projects" /></a>
+  <a href="#quest-log"><img src="assets/system/projects.svg" width="29%" alt="View projects" /></a>
   <a href="https://github.com/sathya991?tab=repositories"><img src="assets/system/repositories.svg" width="29%" alt="Browse repositories" /></a>
+  <a href="https://www.linkedin.com/in/satya991/"><img src="assets/system/linkedin.svg" width="29%" alt="LinkedIn" /></a>
 </p>
 
 ## Player status
 
-I'm Satya, a software developer at **Worksoft** in Hyderabad. I build across the stack with **C#/.NET**, **Angular**, **SQL Server**, and **Python ETL**.
+I'm Satya, a full-stack developer at **Worksoft** in Hyderabad. I build web interfaces with **Angular**, backend services with **C#/.NET**, and data workflows with **SQL Server** and **Python ETL**.
+
+## Worksoft mission report
+
+<img src="assets/system/gate/work-record.svg" width="100%" alt="Worksoft results: over 80% less file upload time, about 20% lower p95 latency, and about 30% lower peak database CPU usage." />
+
+## Quest log
 
 <p align="center">
-  <img src="assets/system/skill-panels.svg" width="100%" alt="Current stack: C#/.NET, Angular, SQL Server, and Python ETL." />
+  <a href="https://github.com/sathya991/portfolio_web"><img src="assets/system/gate/portfolio.svg" width="48%" alt="Portfolio website. Open repository." /></a>
+  <a href="https://github.com/sathya991/Gamer-Street"><img src="assets/system/gate/gamer.svg" width="48%" alt="GamerStreet. Flutter app for an esports platform. Open repository." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/sathya991/React_Portfolio"><img src="assets/system/gate/react.svg" width="48%" alt="React Portfolio. Open repository." /></a>
+  <a href="https://github.com/sathya991/Pokedex"><img src="assets/system/gate/pokedex.svg" width="48%" alt="Pokédex. Pokémon catalog. Open repository." /></a>
 </p>
 
-### Worksoft highlights
-
-- Cut file upload time by **over 80%**.
-- Reduced p95 latency by **about 20%** and peak database CPU usage by **about 30%**.
-
-## System notifications
-
-<details open>
-<summary><strong>01 · Quest log</strong> — explore my projects</summary>
-
-- **Portfolio website** · [View the source](https://github.com/sathya991/portfolio_web).
-- **GamerStreet** · A Flutter app for an esports platform I helped build. [View repository](https://github.com/sathya991/Gamer-Street)
-- **React Portfolio** · A portfolio project built with React. [View repository](https://github.com/sathya991/React_Portfolio)
-- **Pokédex** · A Pokémon catalog project. [View repository](https://github.com/sathya991/Pokedex)
-
-</details>
+## System files
 
 <details>
-<summary><strong>02 · Skill tree</strong> — expand my development toolkit</summary>
+<summary><strong>01 · Skill tree</strong> — current stack and earlier projects</summary>
 
-| Branch | Tools and systems |
+| Branch | Tools |
 | :--- | :--- |
 | Backend | C#, .NET |
 | Frontend | Angular |
 | Data | SQL Server, Python ETL |
-| Earlier projects | React, JavaScript, MERN, Flutter, Dart, Android development with Java |
+| Earlier projects | React, JavaScript, MERN, Flutter, Dart, Java for Android |
 
 </details>
 
 <details>
-<summary><strong>03 · Player archive</strong> — background and earlier work</summary>
+<summary><strong>02 · Player archive</strong> — education and earlier work</summary>
 
 - B.Tech in Computer Science and Engineering.
-- Freelance experience in cross-platform mobile development with Flutter and Dart.
+- Freelance mobile development with Flutter and Dart.
 
 </details>
 
