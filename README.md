@@ -21,7 +21,8 @@ I'm Satya, a software developer at **Worksoft** in Hyderabad. My background span
 <details open>
 <summary><strong>01 · Quest log</strong> — explore my projects</summary>
 
-- **GamerStreet** · An esports platform I helped build. [View repository](https://github.com/sathya991/Gamer-Street)
+- **Portfolio website** · [View the source](https://github.com/sathya991/portfolio_web).
+- **GamerStreet** · A Flutter app for an esports platform I helped build. [View repository](https://github.com/sathya991/Gamer-Street)
 - **React Portfolio** · A portfolio project built with React. [View repository](https://github.com/sathya991/React_Portfolio)
 - **Pokédex** · A Pokémon catalog project. [View repository](https://github.com/sathya991/Pokedex)
 
