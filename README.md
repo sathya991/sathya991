@@ -19,6 +19,10 @@ I'm Satya, a full-stack developer at **Worksoft** in Hyderabad. I build web inte
 ## Quest log
 
 <p align="center">
+  <a href="https://github.com/sathya991/AfterMatch"><img src="assets/system/gate/aftermatch.svg" width="100%" alt="AfterMatch. Dota 2 match review, replay timelines, and evidence-backed practice plans. Open repository." /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/sathya991/Gamer-Street"><img src="assets/system/gate/gamer.svg" width="48%" alt="GamerStreet. Flutter app for an esports platform. Open repository." /></a>
   <a href="https://github.com/sathya991/Pokedex"><img src="assets/system/gate/pokedex.svg" width="48%" alt="Pokédex. Pokémon catalog. Open repository." /></a>
 </p>
